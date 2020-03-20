@@ -3,6 +3,10 @@ body {
   border: 1px solid pink;
 }
 
+h1{
+ border: inherit;
+}
+
 /* セレクター
 宣言
 プロパティ
